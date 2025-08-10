@@ -52,9 +52,9 @@ ad_creative = {
                             "description": {
                                 "text": "This is a test ad image"
                             },
-                            "media": "urn:li:digitalmediaAsset:C1234",  # Pre-uploaded image asset
+                            "media": "urn:li:digitalmediaAsset:D4E22AQElcBXI6_Z_ZA",  # Pre-uploaded image asset
                             "title": {
-                                "text": "Test Ad"
+                                "text": "Let us craft your diversification strategy."
                             }
                         }
                     ]
